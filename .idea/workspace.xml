@@ -6,7 +6,27 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d72a1d5-88ec-4edb-b9ad-3003b8233def" name="Default Changelist" comment="" />
+    <list default="true" id="0d72a1d5-88ec-4edb-b9ad-3003b8233def" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-main/src/main/webapp/WEB-INF/jsp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-api/src/main/java/com/zephxu/crowdfunding/manager/dao/TestDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-api/src/main/java/com/zephxu/crowdfunding/manager/service/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/java/com/zephxu/crowdfunding/manager/dao/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/java/com/zephxu/crowdfunding/manager/service/impl/TestServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/spring-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/springmvc-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/springmvc-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/resources/mybatis/mapper-user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/resources/mybatis/mapper-user.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +36,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
+        <option value="Interface" />
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -43,10 +68,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1T0iS2WwlZd3ekZdGfvInQYN2CR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atcrowdfunding-potal-impl/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,17 +87,18 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources\config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-manager-impl\src\main\java" />
+      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-potal-impl\src\main\resources\mybatis" />
+      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-manager-impl\src\main\resources\mybatis" />
       <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-potal-impl\src\main\resources" />
       <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources\spring" />
-      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources\mybatis" />
-      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,11 +204,40 @@
       <workItem from="1572603411200" duration="9163000" />
       <workItem from="1572660814842" duration="7159000" />
       <workItem from="1572688862952" duration="7881000" />
-      <workItem from="1572859816578" duration="2748000" />
+      <workItem from="1572859816578" duration="12285000" />
+      <workItem from="1572953085196" duration="5351000" />
+      <workItem from="1573008608713" duration="1018000" />
+      <workItem from="1573028628570" duration="2208000" />
+      <workItem from="1573040197193" duration="7891000" />
+      <workItem from="1573091864496" duration="1994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/java/com/zephxu/crowdfunding/manager/dao/TestController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
