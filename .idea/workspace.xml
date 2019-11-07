@@ -7,25 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d72a1d5-88ec-4edb-b9ad-3003b8233def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-main/src/main/webapp/WEB-INF/jsp/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-api/src/main/java/com/zephxu/crowdfunding/manager/dao/TestDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-api/src/main/java/com/zephxu/crowdfunding/manager/service/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/java/com/zephxu/crowdfunding/manager/dao/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/java/com/zephxu/crowdfunding/manager/service/impl/TestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcrowdfunding-main/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/lib/Atcrowdfunding-manager-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/lib/Atcrowdfunding-manager-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/lib/Atcrowdfunding-manager-impl-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/lib/Atcrowdfunding-manager-impl-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/lib/Atcrowdfunding-potal-impl-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/Atcrowdfunding-main-1.0-SNAPSHOT/WEB-INF/lib/Atcrowdfunding-potal-impl-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/spring-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/springmvc-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-main/target/classes/spring/springmvc-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/resources/mybatis/mapper-user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/resources/mybatis/mapper-user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/target/classes/com/zephxu/crowdfunding/manager/dao/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Atcrowdfunding-manager-impl/target/classes/com/zephxu/crowdfunding/manager/dao/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atcrowdfunding-manager-impl/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Atcrowdfunding-main/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,18 +77,18 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources\config" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources" />
       <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-manager-impl\src\main\java" />
       <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-potal-impl\src\main\resources\mybatis" />
       <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-manager-impl\src\main\resources\mybatis" />
       <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-potal-impl\src\main\resources" />
-      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources\spring" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\Atcrowdfundingparent\Atcrowdfunding-main\src\main\resources\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -115,7 +105,6 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Atcrowdfundingmain_war_exploded/" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -123,12 +112,13 @@
       <deployment>
         <artifact name="Atcrowdfundingmain:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Atcrowdfundingmain_war_exploded" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Atcrowdfundingparent" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Atcrowdfundingparent_2" />
+        <option name="HTTP_PORT" value="80" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -136,7 +126,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="56471" />
+        <option name="DEBUG_PORT" value="57562" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -210,6 +200,7 @@
       <workItem from="1573028628570" duration="2208000" />
       <workItem from="1573040197193" duration="7891000" />
       <workItem from="1573091864496" duration="1994000" />
+      <workItem from="1573113179984" duration="14314000" />
     </task>
     <servers />
   </component>
